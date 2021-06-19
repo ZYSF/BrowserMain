@@ -1,6 +1,8 @@
 # BrowserMain
 A *very* minimalist Web Browser &amp; HTML Engine
 
+![Screenshot](/screenshot-0.0.1.png)
+
 ## Features
 
 * Basic browser shell with URL entry and "go" button
