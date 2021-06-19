@@ -8,7 +8,7 @@ A *very* minimalist Web Browser &amp; HTML Engine
 * Basic form support (*just* enough to use Google and DuckDuckGo - although they will be rendered horribly)
 * Basic image support (uses the underlying Java platform's image loading)
 
-In other words, this is just enough to access some simple websites but won't render the contents very nicely or support all features (and there's probably zero hope of accessing more complex sites like Facebook).
+In other words, this is just enough to access some simple websites and follow links between them, but won't render the contents very nicely or support all features (and there's probably zero hope of accessing more complex sites like Facebook).
 
 It may be useful as a starting point for a better browser or rendering engine.
 
