@@ -28,4 +28,4 @@ If the project becomes more serious in the future I'll try to streamline it a bi
 
 "You can do anything you wanna do" ~ Phil Lynott
 
-(Believing in copyright is against my religion. Dependencies have their own licenses.)
+(Believing in copyright is against my religion but you can use the UNLICENSE text for legal purposes. Dependencies have their own licenses.)
