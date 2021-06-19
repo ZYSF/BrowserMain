@@ -21,3 +21,9 @@ If the project becomes more serious in the future I'll try to streamline it a bi
  * jSoup for HTML processing
  * Apache HTTPClient for loading content
  * [This](https://github.com/phil-brown/jCSS-Parser) CSS parser may be required in future builds
+
+## License
+
+"You can do anything you wanna do" ~ Phil Lynott
+
+(Believing in copyright is against my religion. Dependencies have their own licenses.)
